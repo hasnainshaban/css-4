@@ -1,0 +1,39 @@
+
+
+
+
+
+div.h1 {
+    font-size: 250%;
+  }
+
+
+
+p.thicker {
+    font-weight: 1000;
+  }
+
+  
+
+P {
+    text-decoration: none;
+    color: white
+  }
+
+
+h1 {font-size: 70px;
+    text-align: center;
+    text-transform: uppercase;
+    color: white
+  }
+
+
+body { 
+    background: url(./jacksons-milk.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+
